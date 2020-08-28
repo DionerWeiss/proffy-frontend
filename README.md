@@ -1,2 +1,7 @@
 # proffy-frontend
-Front-end da aplicação Proffy, feita durante a segunda Next Level Week da plataforma Rocketseat
+
+Web Application of Proffy, created on Next Level Week #2 
+<br/>
+
+Preview:
+
